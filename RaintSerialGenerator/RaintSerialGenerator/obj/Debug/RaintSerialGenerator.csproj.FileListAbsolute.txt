@@ -1,0 +1,9 @@
+C:\Users\bsr-0\OneDrive\Documents\Visual Studio 2015\Projects\Raint(CSharp)\RaintSerialGenerator\RaintSerialGenerator\bin\Debug\RaintSerialGenerator.exe.config
+C:\Users\bsr-0\OneDrive\Documents\Visual Studio 2015\Projects\Raint(CSharp)\RaintSerialGenerator\RaintSerialGenerator\bin\Debug\RaintSerialGenerator.exe
+C:\Users\bsr-0\OneDrive\Documents\Visual Studio 2015\Projects\Raint(CSharp)\RaintSerialGenerator\RaintSerialGenerator\bin\Debug\RaintSerialGenerator.pdb
+C:\Users\bsr-0\OneDrive\Documents\Visual Studio 2015\Projects\Raint(CSharp)\RaintSerialGenerator\RaintSerialGenerator\obj\Debug\RaintSerialGenerator.csprojResolveAssemblyReference.cache
+C:\Users\bsr-0\OneDrive\Documents\Visual Studio 2015\Projects\Raint(CSharp)\RaintSerialGenerator\RaintSerialGenerator\obj\Debug\RaintSerialGenerator.Properties.Resources.resources
+C:\Users\bsr-0\OneDrive\Documents\Visual Studio 2015\Projects\Raint(CSharp)\RaintSerialGenerator\RaintSerialGenerator\obj\Debug\RaintSerialGenerator.csproj.GenerateResource.Cache
+C:\Users\bsr-0\OneDrive\Documents\Visual Studio 2015\Projects\Raint(CSharp)\RaintSerialGenerator\RaintSerialGenerator\obj\Debug\RaintSerialGenerator.exe
+C:\Users\bsr-0\OneDrive\Documents\Visual Studio 2015\Projects\Raint(CSharp)\RaintSerialGenerator\RaintSerialGenerator\obj\Debug\RaintSerialGenerator.pdb
+C:\Users\bsr-0\OneDrive\Documents\Visual Studio 2015\Projects\Raint(CSharp)\RaintSerialGenerator\RaintSerialGenerator\obj\Debug\RaintSerialGenerator.MainWindow.resources
